@@ -1,0 +1,8 @@
+Console.WriteLine("Instrucciones : \n");
+        Console.WriteLine("1. ver productos");
+        Console.WriteLine("2.  VER EL CARRTIO");
+        Console.WriteLine("3. agregar producto al carrito");
+        Console.WriteLine("4. Eliminar producto del carrito");
+        Console.WriteLine("5. realizar Compra");
+        Console.WriteLine("6. cerrar sesion");
+        Console.WriteLine("7. cerrar tienda");
